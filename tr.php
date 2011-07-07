@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Tweet Random
-Version: 1.1
+Version: 1.2
 Description: Creates an RSS feed for TweetRandom.com. 
 Plugin URI: http://tweetrandom.com/
 Author: Suhas Sharma

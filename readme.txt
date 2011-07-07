@@ -1,8 +1,9 @@
 === TweetRandom Plugin ===
 Tags: twitter, tweet, random, complete, rss, atom, feed
+Contributors: suhas93
 Requires at least: 2.5
 Tested up to: 3.0
-Stable tag: 1.1
+Stable tag: 1.2
 
 Creates an RSS feed for TweetRandom.com. 
 
